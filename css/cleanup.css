@@ -16,6 +16,8 @@
 
 div#wall #tag-3.slick {
   /*background: url(../images/tag-3.png) no-repeat;*/
+    background: none;
+
   z-index: 5;
   display: block;
 }
